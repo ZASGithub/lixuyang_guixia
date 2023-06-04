@@ -3,7 +3,7 @@
     let firstSquish = true;
 
     const LANGUAGES = {
-        "_": { defaultLanguage: "en", defaultVOLanguage: "ja" },
+        "_": { defaultLanguage: "cn", defaultVOLanguage: "cn" },
         "en": {
             audioList: null,
             texts: {
@@ -252,7 +252,7 @@
         let id = null;
         const random = Math.floor(Math.random() * 2) + 1;
         const elem = document.createElement("img");
-        elem.src = tryCacheUrl(`img/hertaa${random}.gif`);
+        elem.src = tryCacheUrl(`img/我错了.gif`);
         elem.style.position = "absolute";
         elem.style.right = "-500px";
         elem.style.top = counterButton.getClientRects()[0].bottom + scrollY - 430 + "px"
