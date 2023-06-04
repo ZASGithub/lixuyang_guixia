@@ -204,8 +204,7 @@
     };
 
     // try caching the hertaa1.gif and hertaa2.gif images by calling the tryCacheUrl function
-    tryCacheUrl("img/hertaa1.gif");
-    tryCacheUrl("img/hertaa2.gif");
+    tryCacheUrl("img/我错了.gif");
 
     // Define a function that takes an array as an argument and returns a random item from the array
     function randomChoice(myArr) {
