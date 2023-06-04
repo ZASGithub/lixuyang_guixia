@@ -26,19 +26,15 @@
         }, "cn": {
             audioList: [
                 // TODO audio random weight
-                "audio/cn/gululu.mp3",
-                "audio/cn/gururu.mp3",
-                "audio/cn/转圈圈.mp3",
-                "audio/cn/转圈圈咯.mp3",
-                "audio/cn/要坏掉了.mp3"
+                "audio/cn/我错了.mp3"
             ],
             texts: {
-                "page-title": "黑塔转圈圈",
-                "doc-title": "咕噜噜~",
-                "page-descriptions": "给黑塔酱写的小网站，对，就是那个<del>烦人的</del>最可爱的《崩坏：星穹铁道》角色！",
-                "counter-descriptions": ["黑塔已经咕噜噜~了", "黑塔已经转了"],
-                "counter-unit": ["次", "次圈圈"],
-                "counter-button": ["转圈圈~", "咕噜噜！"],
+                "page-title": "李旭阳跪下",
+                "doc-title": "我错了",
+                "page-descriptions": "给李旭阳写的小网站，对，就是那个<del>烦人的</del>最喜欢外传的傻屌！",
+                "counter-descriptions": ["李旭阳已经跪下~了", "黑塔已经跪下了"],
+                "counter-unit": ["次", "次跪下"],
+                "counter-button": ["我错了~", "我真的错了！"],
                 "access-via-pages": "您目前是通过 GitHub Pages 访问。对于中国大陆或其他一些地区的用户，请<a href='https://herta.ft2.ltd/'>单击此处访问 Netlify 上的镜像</a>。",
                 "access-via-mirror": "恭喜！你正在使用镜像站，这应当会加速在中国大陆及部分地区境内的访问。点此<a href='https://duiqt.github.io/herta_kuru/'>访问 GitHub Pages 上的源站</a>。",
                 "show-credits-text": "查看感谢页",
