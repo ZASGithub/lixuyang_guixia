@@ -31,7 +31,7 @@
             texts: {
                 "page-title": "李旭阳跪下",
                 "doc-title": "我错了",
-                "page-descriptions": "给李旭阳写的小网站，对，就是那个<del>烦人的</del>最喜欢外传的傻屌！",
+                "page-descriptions": "给李旭阳写的小网站，对，就是那个<del>牛逼的</del>最喜欢外传的傻屌！",
                 "counter-descriptions": ["李旭阳已经跪下~了", "黑塔已经跪下了"],
                 "counter-unit": ["次", "次跪下"],
                 "counter-button": ["我错了~", "我真的错了！"],
